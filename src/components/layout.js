@@ -34,11 +34,6 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://testingwebsite2.gtsb.io">Home</a>
-        </footer>
       </div>
     </>
   )
