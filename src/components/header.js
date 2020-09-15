@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          Chicken Tech Development
+          Teszt weblap
         </Link>
       </h1>
     </div>
