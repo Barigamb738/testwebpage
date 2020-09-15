@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Woeboldal" />
+    <SEO title="Weboldal">
     <h1>Ez az én weboldalam.</h1>
     <p>Ez egy test.</p>
   </Layout>
