@@ -20,11 +20,11 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `black`,
             textDecoration: `none`,
           }}
         >
-          My Website
+          Chicken Tech Development
         </Link>
       </h1>
     </div>
