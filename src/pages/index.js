@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Weboldal" />
     <h1>Ez az én weboldalam.</h1>
-    <p>Ez egy test.</p>
+    <p>Barnabás</p>
   </Layout>
 )
 
